@@ -1,0 +1,8 @@
+What happens when the number of hidden nodes increase?
+  If we increase the number of hidden nodes :- Accuracy will be increase.
+                                               complex patterns and rellationship in the data also increases.
+                                               also if we increas the number of hidden nodes too much can also lead to overfitting.
+
+Can you explain the pattern of accuracy when the hidden nodes increase?
+  if we increase the number of hidden nodes the pattern where accuracy initialy increas until a point where it starts to decrease due to  overfitting.
+                                                                       
